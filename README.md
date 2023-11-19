@@ -1,5 +1,2 @@
 # Python Repository
 
-jhhgkjhjk 
-
-jkjkjkj
